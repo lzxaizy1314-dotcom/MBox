@@ -1,1 +1,7 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSDlubTku73lsI/lvr3nq6A65Y2K6YCP5piO5rex5bqV5ZyG6KeSLOWOi+WcqOWNoeeJh+WbvueJh+W3puS4iuinkiAtLT4KPHNoYXBlIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6c2hhcGU9InJlY3RhbmdsZSI+CiAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iIzk5MDAwMDAwIiAvPgogICAgPGNvcm5lcnMgYW5kcm9pZDpyYWRpdXM9IjhkcCIgLz4KPC9zaGFwZT4K
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 年份小徽章:半透明深底圆角,压在卡片图片左上角 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#99000000" />
+    <corners android:radius="8dp" />
+</shape>
