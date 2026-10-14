@@ -1,1 +1,77 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBNdXNlIOmjjueZveWNoeeJhzoxNjo5IOaoquWbvuWcqOS4iizmoIfpopjlia/moIfpopjlnKjkuIs7SUQg5LiO5pen54mI5LiA6Ie0LEdyaWRBZGFwdGVyIOaXoOmcgOaUueWKqCAtLT4KPGNvbS5saWhhbmcuU2hhZG93TGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSI0ZHAiCiAgICBhcHA6aGxfY29ybmVyUmFkaXVzPSJAZGltZW4vcmFkaXVzX2NhcmQiCiAgICBhcHA6aGxfbGF5b3V0QmFja2dyb3VuZD0iQGNvbG9yL2JnX2NhcmQiCiAgICA+CgogICAgPExpbmVhckxheW91dAogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiPgoKICAgICAgICA8IS0tIDE2Ojkg5Zu+54mH5Yy6OuS4iuaWueWchuinkizkuIvmlrnnm7Top5Is5LiO5paH5a2X5Yy66b2Q5bmzIC0tPgogICAgICAgIDxjb20uZ2l0aHViLnR2Ym94Lm9zYy51aS5raXQuUmF0aW9TaGFkb3dMYXlvdXQKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFwcDpobF9jb3JuZXJSYWRpdXNfdG9wTGVmdD0iQGRpbWVuL3JhZGl1c19jYXJkIgogICAgICAgICAgICBhcHA6aGxfY29ybmVyUmFkaXVzX3RvcFJpZ2h0PSJAZGltZW4vcmFkaXVzX2NhcmQiCiAgICAgICAgICAgIGFwcDpobF9sYXlvdXRCYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci90cmFuc3BhcmVudCI+CgogICAgICAgICAgICA8SW1hZ2VWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2l2VGh1bWIiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9wbGFjZWhvbGRlcl9wb3N0ZXIiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVyQ3JvcCIgLz4KCiAgICAgICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90dlllYXIiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOm1heFdpZHRoPSI3MGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDplbGxpcHNpemU9ImVuZCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0hvcml6b250YWw9IjdkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1ZlcnRpY2FsPSI0ZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IjhkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6c2luZ2xlTGluZT0idHJ1ZSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2JnX2JhZGdlX3llYXIiCiAgICAgICAgICAgICAgICB0b29sczp0ZXh0PSIyMDIzIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjEwc3AiIC8+CiAgICAgICAgPC9jb20uZ2l0aHViLnR2Ym94Lm9zYy51aS5raXQuUmF0aW9TaGFkb3dMYXlvdXQ+CgogICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2TmFtZSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0hvcml6b250YWw9IjEyZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iMTBkcCIKICAgICAgICAgICAgYW5kcm9pZDplbGxpcHNpemU9ImVuZCIKICAgICAgICAgICAgYW5kcm9pZDpzaW5nbGVMaW5lPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3RleHRfZm9yZWdyb3VuZCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTNzcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U3R5bGU9ImJvbGQiCiAgICAgICAgICAgIHRvb2xzOnRleHQ9IueLgumjmSIgLz4KCiAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdHZOb3RlIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nSG9yaXpvbnRhbD0iMTJkcCIKICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSIzZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iMTJkcCIKICAgICAgICAgICAgYW5kcm9pZDplbGxpcHNpemU9ImVuZCIKICAgICAgICAgICAgYW5kcm9pZDpzaW5nbGVMaW5lPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3RleHRfc3ViIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxMXNwIgogICAgICAgICAgICB0b29sczp0ZXh0PSIyMDIzIMK3IOWbveS6p+WJpyDCtyA5LjEiIC8+CgogICAgPC9MaW5lYXJMYXlvdXQ+Cgo8L2NvbS5saWhhbmcuU2hhZG93TGF5b3V0Pgo=
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Muse 风白卡片:16:9 横图在上,标题副标题在下;ID 与旧版一致,GridAdapter 无需改动 -->
+<com.lihang.ShadowLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    app:hl_cornerRadius="@dimen/radius_card"
+    app:hl_layoutBackground="@color/bg_card"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- 16:9 图片区:上方圆角,下方直角,与文字区齐平 -->
+        <com.github.tvbox.osc.ui.kit.RatioShadowLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:hl_cornerRadius_topLeft="@dimen/radius_card"
+            app:hl_cornerRadius_topRight="@dimen/radius_card"
+            app:hl_layoutBackground="@android:color/transparent">
+
+            <ImageView
+                android:id="@+id/ivThumb"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/placeholder_poster"
+                android:scaleType="centerCrop" />
+
+            <TextView
+                android:id="@+id/tvYear"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxWidth="70dp"
+                android:ellipsize="end"
+                android:paddingHorizontal="7dp"
+                android:paddingVertical="4dp"
+                android:layout_margin="8dp"
+                android:singleLine="true"
+                android:background="@drawable/bg_badge_year"
+                tools:text="2023"
+                android:textColor="@color/white"
+                android:textSize="10sp" />
+        </com.github.tvbox.osc.ui.kit.RatioShadowLayout>
+
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="12dp"
+            android:paddingTop="10dp"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textColor="@color/text_foreground"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            tools:text="狂飙" />
+
+        <TextView
+            android:id="@+id/tvNote"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="12dp"
+            android:paddingTop="3dp"
+            android:paddingBottom="12dp"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textColor="@color/text_sub"
+            android:textSize="11sp"
+            tools:text="2023 · 国产剧 · 9.1" />
+
+    </LinearLayout>
+
+</com.lihang.ShadowLayout>
