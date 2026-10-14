@@ -1,1 +1,41 @@
-cGFja2FnZSBjb20uZ2l0aHViLnR2Ym94Lm9zYy51aS5raXQ7CgppbXBvcnQgYW5kcm9pZC5jb250ZW50LkNvbnRleHQ7CmltcG9ydCBhbmRyb2lkLnV0aWwuQXR0cmlidXRlU2V0OwoKaW1wb3J0IGNvbS5saWhhbmcuU2hhZG93TGF5b3V0OwoKLyoqCiAqIOWbuuWumuWuvemrmOavlOeahOWJp+mbhuWNoeeJh+agueW4g+WxgDrlrr066auYID0gMTY6OSjpq5jluqYgPSDlrr3luqYgw5cgOS8xNinjgIIKICog5a695bqm55SxIFJlY3ljbGVyVmlldyDnvZHmoLzliJfmlbDlhrPlrpoo6Ieq6YCC5bqU5bGP5bmV5a695bqmKTsKICog5q+P5qyhIG9uTWVhc3VyZSDpg73mjInlvZPliY3lrr3luqbph43nrpfpq5jluqYs5Zug5q2k5bGP5bmV5peL6L2sIC8g56qX5Y+j5bC65a+45Y+Y5YyWKOWkp+Wxj+aoquerluWxj+WIh+aNoinml7YKICog5Lya6Ieq5Yqo5pu05pawLOaXoOmcgOaJi+WKqOWIt+aWsOOAggogKi8KcHVibGljIGNsYXNzIFJhdGlvU2hhZG93TGF5b3V0IGV4dGVuZHMgU2hhZG93TGF5b3V0IHsKCiAgICAvKiog6auY5bqmID0g5a695bqmIMOXIFJBVElPX0hfVyjlrr066auYID0gMTY6OSkgKi8KICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGZsb2F0IFJBVElPX0hfVyA9IDlmIC8gMTZmOwoKICAgIHB1YmxpYyBSYXRpb1NoYWRvd0xheW91dChDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBzdXBlcihjb250ZXh0KTsKICAgIH0KCiAgICBwdWJsaWMgUmF0aW9TaGFkb3dMYXlvdXQoQ29udGV4dCBjb250ZXh0LCBBdHRyaWJ1dGVTZXQgYXR0cnMpIHsKICAgICAgICBzdXBlcihjb250ZXh0LCBhdHRycyk7CiAgICB9CgogICAgcHVibGljIFJhdGlvU2hhZG93TGF5b3V0KENvbnRleHQgY29udGV4dCwgQXR0cmlidXRlU2V0IGF0dHJzLCBpbnQgZGVmU3R5bGVBdHRyKSB7CiAgICAgICAgc3VwZXIoY29udGV4dCwgYXR0cnMsIGRlZlN0eWxlQXR0cik7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgdm9pZCBvbk1lYXN1cmUoaW50IHdpZHRoTWVhc3VyZVNwZWMsIGludCBoZWlnaHRNZWFzdXJlU3BlYykgewogICAgICAgIGludCB3aWR0aCA9IE1lYXN1cmVTcGVjLmdldFNpemUod2lkdGhNZWFzdXJlU3BlYyk7CiAgICAgICAgLy8g6auY5bqm5pyq55Sx54i25biD5bGA5Zu65a6aKOWmgiB3cmFwX2NvbnRlbnQp5pe2LOaMieW9k+WJjeWuveW6puiuoeeul+mrmOW6pgogICAgICAgIGlmICh3aWR0aCA+IDAgJiYgTWVhc3VyZVNwZWMuZ2V0TW9kZShoZWlnaHRNZWFzdXJlU3BlYykgIT0gTWVhc3VyZVNwZWMuRVhBQ1RMWSkgewogICAgICAgICAgICBpbnQgaGVpZ2h0ID0gTWF0aC5yb3VuZCh3aWR0aCAqIFJBVElPX0hfVyk7CiAgICAgICAgICAgIGhlaWdodE1lYXN1cmVTcGVjID0gTWVhc3VyZVNwZWMubWFrZU1lYXN1cmVTcGVjKGhlaWdodCwgTWVhc3VyZVNwZWMuRVhBQ1RMWSk7CiAgICAgICAgfQogICAgICAgIHN1cGVyLm9uTWVhc3VyZSh3aWR0aE1lYXN1cmVTcGVjLCBoZWlnaHRNZWFzdXJlU3BlYyk7CiAgICB9Cn0K
+package com.github.tvbox.osc.ui.kit;
+
+import android.content.Context;
+import android.util.AttributeSet;
+
+import com.lihang.ShadowLayout;
+
+/**
+ * 固定宽高比的剧集卡片根布局:宽:高 = 16:9(高度 = 宽度 × 9/16)。
+ * 宽度由 RecyclerView 网格列数决定(自适应屏幕宽度);
+ * 每次 onMeasure 都按当前宽度重算高度,因此屏幕旋转 / 窗口尺寸变化(大屏横竖屏切换)时
+ * 会自动更新,无需手动刷新。
+ */
+public class RatioShadowLayout extends ShadowLayout {
+
+    /** 高度 = 宽度 × RATIO_H_W(宽:高 = 16:9) */
+    private static final float RATIO_H_W = 9f / 16f;
+
+    public RatioShadowLayout(Context context) {
+        super(context);
+    }
+
+    public RatioShadowLayout(Context context, AttributeSet attrs) {
+        super(context, attrs);
+    }
+
+    public RatioShadowLayout(Context context, AttributeSet attrs, int defStyleAttr) {
+        super(context, attrs, defStyleAttr);
+    }
+
+    @Override
+    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
+        int width = MeasureSpec.getSize(widthMeasureSpec);
+        // 高度未由父布局固定(如 wrap_content)时,按当前宽度计算高度
+        if (width > 0 && MeasureSpec.getMode(heightMeasureSpec) != MeasureSpec.EXACTLY) {
+            int height = Math.round(width * RATIO_H_W);
+            heightMeasureSpec = MeasureSpec.makeMeasureSpec(height, MeasureSpec.EXACTLY);
+        }
+        super.onMeasure(widthMeasureSpec, heightMeasureSpec);
+    }
+}
