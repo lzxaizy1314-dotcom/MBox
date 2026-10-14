@@ -1,1 +1,36 @@
-IyBNdXNlIOmjjiBVSSDmlLnpgKDor7TmmI7vvIh2Me+8iQoK5Z+65LqOIE1Cb3jvvIhDTlNoYW5KdS9NQm9477yMVFZCb3hPUy1Nb2JpbGUg5bu257ut54mI77yJ5pS555qE77yM5pS55Yqo6YO95ZyoIGA6YXBwYCDlsYLvvIzmsqHnorDmqKHlnZfovrnnlYzjgIIKCiMjIOaUueS6huS7gOS5iAoKMS4gKirkuLvpopgqKiBgYXBwL3NyYy9tYWluL2Fzc2V0cy90aGVtZS90aGVtZXMvYnJpZ2h0L2RlZmF1bHQuanNvbmAKICAgLSDmlLnlkI3jgIzmmpbnurjjgI3vvIzku43kuLrpu5jorqTkuLvpopgKICAgLSBgYmdfYm9keWAg4oaSIGAjZjVmM2VmYO+8iOaalue6uOW6le+8iQogICAtIGBiZ19zdXJmYWNlYCDihpIgYCNmZmZmZmZg77yI55m95Y2h54mH77yJCiAgIC0gYGJnX2NhcmRfYWxwaGFgIOKGkiAxMDDvvIjljaHniYfkuI3pgI/mmI7vvIkKICAgLSBgYnJhbmRgIOKGkiBgIzFjMWMxYWDvvIjmmpbloqjmloflrZfkuLvoibLvvIkKICAgLSBgdGV4dF9oaWdobGlnaHRgIC8gYGRvd25sb2FkX2FjdGl2ZWAg4oaSIGAjZWM1YjM2YO+8iOaaluapmeW8uuiwg+iJsu+8iQogICAtIGBidG5fY29uZmlybV9iZ2Ag4oaSIGAjMWMxYzFhYAogICAtIOaehOW7uuaXtiBgZ2VuZXJhdGVUaGVtZUNvbG9yc2Ag5Lya6Ieq5Yqo5rS+55Sf5YWo5aWX6aKc6Imy77yM5LiN55So5omL5pS5IGNvbG9ycy54bWwKCjIuICoq5Y2h54mH5q+U5L6LKiogYGFwcC8uLi4vdWkva2l0L1JhdGlvU2hhZG93TGF5b3V0LmphdmFgCiAgIC0gYFJBVElPX0hfV2Ag55SxIGA0Zi8zZmDvvIgzOjQg56uW5Zu+77yJ5pS55Li6IGA5Zi8xNmZg77yIMTY6OSDmqKrlm77vvIkKICAgLSDlvbHlk43vvJrpppbpobXnvZHmoLzjgIHmkJzntKLlrqvmoLzjgIHmlLbol4/jgIHkuIvovb3jgIHmkJzntKLmtbfmiqXljaHvvIjnu5/kuIDmqKrlm77vvIkKCjMuICoq6aaW6aG15Y2h54mH5biD5bGAKiogYGFwcC9zcmMvbWFpbi9yZXMvbGF5b3V0L2l0ZW1fZ3JpZC54bWxgCiAgIC0g6YeN5YGa5Li655m95Y2h54mH77yaMTY6OSDmqKrlm77lnKjkuIrvvIjkuIrmlrnlnIbop5LvvInvvIzmoIfpopgr5Ymv5qCH6aKY5Zyo5LiLCiAgIC0g5L+d55WZ5LqGIGBpdlRodW1iYCAvIGB0dk5hbWVgIC8gYHR2Tm90ZWAgLyBgdHZZZWFyYCDlm5vkuKogSUTvvIxHcmlkQWRhcHRlciDkuI3nlKjmlLkKICAgLSDlubTku73lvr3nq6DmlLnnlKjmlrDlu7rnmoQgYEBkcmF3YWJsZS9iZ19iYWRnZV95ZWFyYO+8iOWNiumAj+aYjum7keWchuinku+8iQoKIyMg5ZyoIEFuZHJvaWQgU3R1ZGlvIOmHjOaehOW7ugoKMS4g55SoIEFuZHJvaWQgU3R1ZGlvIOaJk+W8gOacrOebruW9le+8iEdyYWRsZSDpobnnm67vvIkKMi4gU0RLIOeUqOS9oOacrOacuueahO+8iOW3suWIoOaOiSBsb2NhbC5wcm9wZXJ0aWVz77yMQVMg5Lya6Ieq5bex6YWN77yJCjMuIOebtOaOpSBSdW4gYGFwcGAg5Y2z5Y+v77yMYGdlbmVyYXRlVGhlbWVDb2xvcnNgIOS8muWcqCBwcmVCdWlsZCDoh6rliqjot5EKNC4g5aaC6ZyA5o2i5Zue56uW5Zu+5Y2h54mH77ya5oqKIGBSYXRpb1NoYWRvd0xheW91dC5SQVRJT19IX1dgIOaUueWbniBgNGYvM2ZgCgojIyDkuIvkuIDmraXlj6/nu6fnu63lgZrnmoQKLSDpppbpobXpobbpg6jpl67lgJnlpLQgKyBIZXJvIOWkp+WNoe+8iOmcgOaUuSBIb21lRnJhZ21lbnQvRnJhZ21lbnQg57uT5p6E77yJCi0g6K+m5oOF6aG15oq95bGJ5byP6YeN5YGa77yIYWN0aXZpdHlfZGV0YWlsLnhtbO+8iQotIOaal+iJsuS4u+mimOWQjOatpeaaluiJsuezuwo=
+# Muse 风 UI 改造说明（v1）
+
+基于 MBox（CNShanJu/MBox，TVBoxOS-Mobile 延续版）改的，改动都在 `:app` 层，没碰模块边界。
+
+## 改了什么
+
+1. **主题** `app/src/main/assets/theme/themes/bright/default.json`
+   - 改名「暖纸」，仍为默认主题
+   - `bg_body` → `#f5f3ef`（暖纸底）
+   - `bg_surface` → `#ffffff`（白卡片）
+   - `bg_card_alpha` → 100（卡片不透明）
+   - `brand` → `#1c1c1a`（暖墨文字主色）
+   - `text_highlight` / `download_active` → `#ec5b36`（暖橙强调色）
+   - `btn_confirm_bg` → `#1c1c1a`
+   - 构建时 `generateThemeColors` 会自动派生全套颜色，不用手改 colors.xml
+
+2. **卡片比例** `app/.../ui/kit/RatioShadowLayout.java`
+   - `RATIO_H_W` 由 `4f/3f`（3:4 竖图）改为 `9f/16f`（16:9 横图）
+   - 影响：首页网格、搜索宫格、收藏、下载、搜索海报卡（统一横图）
+
+3. **首页卡片布局** `app/src/main/res/layout/item_grid.xml`
+   - 重做为白卡片：16:9 横图在上（上方圆角），标题+副标题在下
+   - 保留了 `ivThumb` / `tvName` / `tvNote` / `tvYear` 四个 ID，GridAdapter 不用改
+   - 年份徽章改用新建的 `@drawable/bg_badge_year`（半透明黑圆角）
+
+## 在 Android Studio 里构建
+
+1. 用 Android Studio 打开本目录（Gradle 项目）
+2. SDK 用你本机的（已删掉 local.properties，AS 会自己配）
+3. 直接 Run `app` 即可，`generateThemeColors` 会在 preBuild 自动跑
+4. 如需换回竖图卡片：把 `RatioShadowLayout.RATIO_H_W` 改回 `4f/3f`
+
+## 下一步可继续做的
+- 首页顶部问候头 + Hero 大卡（需改 HomeFragment/Fragment 结构）
+- 详情页抽屉式重做（activity_detail.xml）
+- 暗色主题同步暖色系
