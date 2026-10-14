@@ -1,1 +1,80 @@
-ewogICJ0eXBlIjogImJyaWdodCIsCiAgIm5hbWUiOiAi6I6y6IqxIiwKICAiZGVmYXVsdCI6IGZhbHNlLAogICJiZ19ib2R5IjogIiNmNWYzZWYiLAogICJiZ19zdXJmYWNlIjogIiNmZmZmZmYiLAogICJiZ19jYXJkX2FscGhhIjogMTAwLAogICJiZ19mbG9hdF9hbHBoYSI6IDk2LAoKICAidGV4dF9oaWdobGlnaHQiOiAiI2VjNWIzNiIsCgogICJicmFuZCI6ICIjMWMxYzFhIiwKCiAgImJ0bl9jb25maXJtX2JnIjogIiMxYzFjMWEiLAogICJidG5fY29uZmlybV90ZXh0IjogIiNGRkZGRkYiLAogICJidG5fY2FuY2VsX2JnIjogIiM2NjFjMWMxYSIsCgogICJzdWNjZXNzIjogIiMwOENBMkMiLAogICJzd2l0Y2hfdGh1bWIiOiAiI0ZGRkZGRiIsCgogICJkb3dubG9hZF9hY3RpdmUiOiAiI2VjNWIzNiIsCgogICJzcGxhc2hCYWNrZ3JvdW5kIjogewogICAgIm1vZGUiOiAidGhlbWUiLAogICAgImNvbG9yIjogIiIsCiAgICAicmVmIjogIiIsCiAgICAiem9vbSI6IDAsCiAgICAiYW5jaG9yWCI6IDAuNSwKICAgICJhbmNob3JZIjogMC41LAogICAgImxvdHRpZU9uSW1hZ2UiOiB0cnVlCiAgfSwKCiAgImJhY2tncm91bmQiOiB7CiAgICAibW9kZSI6ICJpbWFnZSIsCiAgICAicmVmIjogImZpbGU6Ly8vYW5kcm9pZF9hc3NldC90aGVtZS9iYWNrZ3JvdW5kcy9sb3R1cy5wbmciLAogICAgInpvb20iOiAwLjM2LAogICAgImFuY2hvclgiOiAxLAogICAgImFuY2hvclkiOiAxLAogICAgImFscGhhIjogMTAwLAogICAgInNjcmltIjogZmFsc2UKICB9LAoKICAiZGVzYyI6IHsKICAgICJzcGxhc2hCYWNrZ3JvdW5kIjogewogICAgICAibW9kZSI6ICLlvIDlsY/og4zmma/mnaXmupDvvJp0aGVtZT3ot5/pmo/mnKzkuLvpopjnmoQgYmdfYm9keSDnuq/oibLvvIjpu5jorqTvvInvvJtzb2xpZD3kvb/nlKggY29sb3Ig5oyH5a6a55qE57qv6Imy77ybaW1hZ2U95L2/55SoIHJlZiDmjIflrprnmoTlm77niYfjgILov5nph4zkuI3kvb/nlKggYmFja2dyb3VuZCDphY3nva7nmoTpobXpnaLog4zmma/lm74iLAogICAgICAiY29sb3IiOiAi5LuFIG1vZGU9c29saWQg5pe255Sf5pWI77yM5aGr5LiN6YCP5piO6aKc6ImyICNSUkdHQkLvvJvmlLnlm54gbW9kZT10aGVtZSDljbPmgaLlpI3ot5/pmo8gYmdfYm9keeOAguWIh+aNouWIsOWbvueJh+WQjuS7jeS/neeVmeatpOminOiJsu+8jOaWueS+v+WIh+WbniIsCiAgICAgICJyZWYiOiAi5LuFIG1vZGU9aW1hZ2Ug5pe255Sf5pWI77ya55So5oi35Zu+54mH5aGrIHRoZW1lX2JnL+aWh+S7tuWQje+8jOWGhee9ruWbvueJh+WhqyBmaWxlOi8vL2FuZHJvaWRfYXNzZXQvdGhlbWUvYmFja2dyb3VuZHMv5paH5Lu25ZCN44CC5YiH5o2i5Yiw57qv6Imy5ZCO5LuN5L+d55WZ5Zu+54mH77yM5pa55L6/5YiH5ZueIiwKICAgICAgInpvb20iOiAi5LuFIG1vZGU9aW1hZ2Ug5pe255Sf5pWI77ya55u45a+55YWo5bGP6ZO65ruh55qE57yp5pS+5YCN546H77ybMCDooajnpLroh6rliqjlhrPlrprlpKflsI8iLAogICAgICAiYW5jaG9yWCI6ICLku4UgbW9kZT1pbWFnZSDml7bnlJ/mlYjvvJrmsLTlubPkvY3nva7vvIwwPemdoOW3puOAgTAuNT3lsYXkuK3jgIExPemdoOWPsyIsCiAgICAgICJhbmNob3JZIjogIuS7hSBtb2RlPWltYWdlIOaXtueUn+aViO+8muWeguebtOS9jee9ru+8jDA96Z2g5LiK44CBMC41PeWxheS4reOAgTE96Z2g5LiLIiwKICAgICAgImxvdHRpZU9uSW1hZ2UiOiAi5LuFIG1vZGU9aW1hZ2Ug5pe255Sf5pWI77yadHJ1ZT3lm77niYfkuIrlj6DliqDlvIDlsY/liqjnlLvvvIxmYWxzZT3lj6rmmL7npLrlm77niYfvvJt0aGVtZSDlkowgc29saWQg5qih5byP5aeL57uI5pKt5pS+5byA5bGP5Yqo55S7IgogICAgfSwKICAgICJiYWNrZ3JvdW5kIjogewogICAgICAibW9kZSI6ICLlm77niYfog4zmma/mqKHlvI8iLAogICAgICAicmVmIjogIkFwcCDlhoXnva7nmoTpgI/mmI7ojrLoirHlm77niYciLAogICAgICAiem9vbSI6ICLlm77niYfovrnplb/nuqbkuLrlsY/luZXplb/ovrnnmoQgMzYlIiwKICAgICAgImFuY2hvclgiOiAi5rC05bmz6ZSa54K55Y+W5YC8IDDvvZ4x77yaMD3pnaDlt6bvvIwwLjU95bGF5Lit77yMMT3pnaDlj7PvvJvlvZPliY3kuLogMSIsCiAgICAgICJhbmNob3JZIjogIuWeguebtOmUmueCueWPluWAvCAw772eMe+8mjA96Z2g5LiK77yMMC41PeWxheS4re+8jDE96Z2g5LiL77yb5b2T5YmN5Li6IDEiLAogICAgICAiYWxwaGEiOiAi5L+d55WZ5Zu+54mH5Y6f5pyJ55qE5LiN6YCP5piO5bqmIiwKICAgICAgInNjcmltIjogIuaYr+WQpuWPoOWKoOWFqOmhteiDjOaZr+mBrue9qe+8mnRydWU95byA5ZCv77yMZmFsc2U95YWz6Zet77yb5b2T5YmN5Li6IGZhbHNlIgogICAgfSwKICAgICJiZ19ib2R5IjogIumhtemdouiDjOaZr+iJsijmiYDmnInpobXpnaLnmoTlupUpIiwKICAgICJiZ19zdXJmYWNlIjogIumdouminOiJsjrpobXpnaLlsYLkuI7mta7lsYLjgJDlhbHnlKjjgJHnmoTlkIzkuIDkuKrpopzoibIo6aG16Z2i5Y2h54mH44CB5qCH6aKY5qCP44CB5bqV5qCP44CB5pCc57Si5qGG44CB5by556qX5LiO5oq95bGJ44CB5rCU5rOh44CB5oKs5rWu5ZyG6ZKu44CB5YiX6KGo6KGM44CB5rW35oql5Y2g5L2N6YO95Y+W5a6DKeOAgumAj+WkmuWwkeeci+S4i+mdouS4pOaho+mAj+aYjuW6pjrljaHniYfpgqPmoaPnrqHpobXpnaLkuIrnmoTkuJzopb8s5rWu5bGC6YKj5qGj566h5by556qXL+aKveWxiS/msJTms6Ev5oKs5rWu6ZKuIiwKICAgICJiZ19jYXJkX2FscGhhIjogIuWNoeeJh+mAj+aYjuW6pigwLTEwMDsxMDA95LiN6YCP5piOKeKAlOKAlOeuoeOAkOmhtemdouWxguOAkTrmiJHnmoTpobUv6K6+572u6aG1L+acrOWcsOinhumikemhtemCo+S6m+WNoeeJh+OAgeS6jOe6p+mhteagh+mimOagj+OAgeW6lemDqOWvvOiIquagj+OAgeS4u+mhteaQnOe0ouahhuOAgea1t+aKpeWNoOS9jSzku6Xlj4oqKuWNoeeJh+mHjOmdoueahOihjCoqKOW8ueeql+WIl+ihqOihjOOAgeetm+mAieWdlykiLAogICAgImJnX2Zsb2F0X2FscGhhIjogIua1ruWxgumAj+aYjuW6pigwLTEwMDsxMDA95LiN6YCP5piOKeKAlOKAlOeuoeOAkOa1rui1t+adpeeahOmCo+S4gOWxguOAkTrmiYDmnInlvLnnqpfkuI7mir3lsYnjgIHmsJTms6Eo6ZW/5oyJL+S4iuasoeeci+WIsCB4eHgp44CB6aaW6aG155u05pKt5LiO562b6YCJ5oKs5rWu6ZKu44CB5pu05paw5oKs5rWu5ZyIIiwKCiAgICAidGV4dF9oaWdobGlnaHQiOiAi6auY5Lqu5paH5a2XKOaQnOe0oue7k+aenOadpea6kOOAgemTvuaOpeOAgeWxleW8gC/lpI3liLYpIiwKCiAgICAiYnJhbmQiOiAi5paH5a2X5Li76ImyOuato+aWhy/liJfooajmloflrZfnmoTpu5jorqToibI756m65b+D5LiO57qv5paH5a2X5oyJ6ZKu55qE5paH5a2X44CB5Yu+6YCJ5qGG5LiO6L+b5bqm5p2h5aGr5YWF44CB5o+P6L655Lmf5Y+W5a6D44CCKirlj6rog73nuq/oibIs5LiN5YWB6K646K6+6YCP5piO5bqmKio75qyh6KaB5paH5a2X5LiO56aB55So5paH5a2X5Lik57qn55Sx5a6D5oyJIDYwJSDkuI3pgI/mmI7luqbnrpflh7rmnaUs5LiN5YaN5Y2V54us6YWNIiwKCiAgICAiYnRuX2NvbmZpcm1fYmciOiAi5a6e5b+D5oyJ6ZKu5ZKM5a6e5b+D6YCJ5Lit6aG555qE5aGr5YWF5LiO5o+P6L655YWx55So6K+l6ImyO+WFtuS4iuaWh+Wtl+i1sCBidG5fY29uZmlybV90ZXh0LOepuuW/g+aMiemSruaPj+i+ueS7jei1sCBicmFuZCIsCiAgICAiYnRuX2NvbmZpcm1fdGV4dCI6ICLlrp7lv4PmjInpkq7mloflrZc65Li75oyJ6ZKu5ZKM5a6e5b+D6YCJ5Lit6aG55LiK55qE5a2XO+WPr+S4juaWh+Wtl+S4u+iJsiBicmFuZCDliIbliKvorr7nva4iLAogICAgImJ0bl9jYW5jZWxfYmciOiAi5LuF5L6b6L6T5YWl5qGG6L6557q/5LiO5peg5paH5a2X5o+P6L655a655Zmo5L2/55SoO+W4puaWh+Wtl+eahOepuuW/g+aMiemSruS4juWwj+e7hOS7tumUrueahOaPj+i+uei3n+WQhOiHquaWh+Wtl+WQjOiJsuOAguatpOmUruS4uuaXp+S4u+mimOWFvOWuueS/neeVmeOAgiIsCgogICAgInN1Y2Nlc3MiOiAi5a6M5oiQL+W8gOWQr+iJsijlvIDlhbPmiZPlvIDjgIHkuIvovb3lrozmiJDov5nnsbvmraPlkJHnirbmgIE75LiL6L296L+b5bqm5p2h44CB5pu05paw5oKs5rWu5ZyI5Lmf55So5a6DKeOAgioq44CM5byA5YWzLeWFs+OAjeS4jeWGjeWNleeLrOmFjSoqKDIwMjYtMTAtMDEpOuWug+aYr+W8gOWFs+W8gOWQr+iJsiAzMCUg6YCP5piO55qE5rS+55Sf5YC8LOW3suS4jeaYr+mFjee9rumhuSIsCiAgICAic3dpdGNoX3RodW1iIjogIuW8gOWFs+WchueCueiJsiIsCgogICAgImRvd25sb2FkX2FjdGl2ZSI6ICLkuIvovb3kuK3nirbmgIHoibIo5LiL6L296aG154q25oCB6KGM44CB5bem5ruR5pqC5YGc5bqV44CB5pu05paw6L+b5bqm5p2h5LiO5pu05paw5oKs5rWu5ZyIKSIKICB9Cn0K
+{
+  "type": "bright",
+  "name": "莲花",
+  "default": false,
+  "bg_body": "#f5f3ef",
+  "bg_surface": "#ffffff",
+  "bg_card_alpha": 100,
+  "bg_float_alpha": 96,
+
+  "text_highlight": "#ec5b36",
+
+  "brand": "#1c1c1a",
+
+  "btn_confirm_bg": "#1c1c1a",
+  "btn_confirm_text": "#FFFFFF",
+  "btn_cancel_bg": "#661c1c1a",
+
+  "success": "#08CA2C",
+  "switch_thumb": "#FFFFFF",
+
+  "download_active": "#ec5b36",
+
+  "splashBackground": {
+    "mode": "theme",
+    "color": "",
+    "ref": "",
+    "zoom": 0,
+    "anchorX": 0.5,
+    "anchorY": 0.5,
+    "lottieOnImage": true
+  },
+
+  "background": {
+    "mode": "image",
+    "ref": "file:///android_asset/theme/backgrounds/lotus.png",
+    "zoom": 0.36,
+    "anchorX": 1,
+    "anchorY": 1,
+    "alpha": 100,
+    "scrim": false
+  },
+
+  "desc": {
+    "splashBackground": {
+      "mode": "开屏背景来源：theme=跟随本主题的 bg_body 纯色（默认）；solid=使用 color 指定的纯色；image=使用 ref 指定的图片。这里不使用 background 配置的页面背景图",
+      "color": "仅 mode=solid 时生效，填不透明颜色 #RRGGBB；改回 mode=theme 即恢复跟随 bg_body。切换到图片后仍保留此颜色，方便切回",
+      "ref": "仅 mode=image 时生效：用户图片填 theme_bg/文件名，内置图片填 file:///android_asset/theme/backgrounds/文件名。切换到纯色后仍保留图片，方便切回",
+      "zoom": "仅 mode=image 时生效：相对全屏铺满的缩放倍率；0 表示自动决定大小",
+      "anchorX": "仅 mode=image 时生效：水平位置，0=靠左、0.5=居中、1=靠右",
+      "anchorY": "仅 mode=image 时生效：垂直位置，0=靠上、0.5=居中、1=靠下",
+      "lottieOnImage": "仅 mode=image 时生效：true=图片上叠加开屏动画，false=只显示图片；theme 和 solid 模式始终播放开屏动画"
+    },
+    "background": {
+      "mode": "图片背景模式",
+      "ref": "App 内置的透明莲花图片",
+      "zoom": "图片边长约为屏幕长边的 36%",
+      "anchorX": "水平锚点取值 0～1：0=靠左，0.5=居中，1=靠右；当前为 1",
+      "anchorY": "垂直锚点取值 0～1：0=靠上，0.5=居中，1=靠下；当前为 1",
+      "alpha": "保留图片原有的不透明度",
+      "scrim": "是否叠加全页背景遮罩：true=开启，false=关闭；当前为 false"
+    },
+    "bg_body": "页面背景色(所有页面的底)",
+    "bg_surface": "面颜色:页面层与浮层【共用】的同一个颜色(页面卡片、标题栏、底栏、搜索框、弹窗与抽屉、气泡、悬浮圆钮、列表行、海报占位都取它)。透多少看下面两档透明度:卡片那档管页面上的东西,浮层那档管弹窗/抽屉/气泡/悬浮钮",
+    "bg_card_alpha": "卡片透明度(0-100;100=不透明)——管【页面层】:我的页/设置页/本地视频页那些卡片、二级页标题栏、底部导航栏、主页搜索框、海报占位,以及**卡片里面的行**(弹窗列表行、筛选块)",
+    "bg_float_alpha": "浮层透明度(0-100;100=不透明)——管【浮起来的那一层】:所有弹窗与抽屉、气泡(长按/上次看到 xxx)、首页直播与筛选悬浮钮、更新悬浮圈",
+
+    "text_highlight": "高亮文字(搜索结果来源、链接、展开/复制)",
+
+    "brand": "文字主色:正文/列表文字的默认色;空心与纯文字按钮的文字、勾选框与进度条填充、描边也取它。**只能纯色,不允许设透明度**;次要文字与禁用文字两级由它按 60% 不透明度算出来,不再单独配",
+
+    "btn_confirm_bg": "实心按钮和实心选中项的填充与描边共用该色;其上文字走 btn_confirm_text,空心按钮描边仍走 brand",
+    "btn_confirm_text": "实心按钮文字:主按钮和实心选中项上的字;可与文字主色 brand 分别设置",
+    "btn_cancel_bg": "仅供输入框边线与无文字描边容器使用;带文字的空心按钮与小组件键的描边跟各自文字同色。此键为旧主题兼容保留。",
+
+    "success": "完成/开启色(开关打开、下载完成这类正向状态;下载进度条、更新悬浮圈也用它)。**「开关-关」不再单独配**(2026-10-01):它是开关开启色 30% 透明的派生值,已不是配置项",
+    "switch_thumb": "开关圆点色",
+
+    "download_active": "下载中状态色(下载页状态行、左滑暂停底、更新进度条与更新悬浮圈)"
+  }
+}
